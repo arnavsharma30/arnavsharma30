@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 <h3 align="center">Passionate high school student from India 🇮🇳 | Into HTML, CSS, JavaScript, and Python 🚀 | Exploring the exciting worlds of tech, AI, and robotics 🤖 | On a journey to study abroad for higher studies ✈️ | Let's code the future together! 💻🌟</h3>
 
+
+<img align="left" alt="This is how i code" width="400" src="![image](https://github.com/arnavsharma30/arnavsharma30/assets/22253580/04214585-83d2-42f0-83a6-a06123199208)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavsharma30&label=Profile%20views&color=0e75b6&style=flat" alt="arnavsharma30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavsharma30" alt="arnavsharma30" /></a> </p>
