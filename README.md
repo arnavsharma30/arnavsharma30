@@ -11,9 +11,8 @@
 </p>
 
  -->
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=arnavsharma30">
+  <img align="right" src="https://komarev.com/ghpvc/?username=arnavsharma30&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -22,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Arnav</a></b>
+                <b><a target="_blank" href="https://icedautomations.com">Arnav</a></b>
         </samp>
 </h3>
 
