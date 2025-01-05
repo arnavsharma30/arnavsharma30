@@ -15,7 +15,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Arnav+Sharma">「 Google Me 」</a>
     <br>
-    「 I am a Developer, Student, Investor from <b>Pheonix</b> 」
+    「 I am a Developer, Student from <b>Pheonix</b> 」
     <br>
     <br>
   </samp>
