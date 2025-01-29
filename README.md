@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
- <a href="https://arnavsharma.live" target="blank">
+ <a href="https://icedautomations.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Arnav" />
  </a>
  <a href="https://www.linkedin.com/in/arnav-sharma-a32630281/" target="_blank">
