@@ -2,7 +2,7 @@
 
 # arnav sharma
 
-`20` · `builder` · `ex cold email infra` · `asu`
+`20` · `builder` · `ex cold email infra` · `asu '28`
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arnav.icedoutai.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnaviced)
@@ -18,7 +18,7 @@
 
 co-founded **[iced automations](https://icedautomations.com)** — cold email infrastructure for lead gen agencies. scaled it, learned a ton, moved on.
 
-now i build things that interest me. currently shipping an **email validation saas**, self-hosting everything on free cloud vms, and studying at **masters' union** (prev. asu).
+now i build things that interest me. currently shipping an **email validation saas**, self-hosting everything on free cloud vms, and studying at **arizona state university**.
 
 i like shipping fast, breaking things, and understanding how systems work under the hood.
 
